@@ -1,5 +1,9 @@
 /*
  * Yaguachi Alexander
+ Realizar un programa de seguridad domótica que permita encender las luces de un
+ domicilio de 5 habitaciones de forma aleatoria solo en horario nocturno. 
+ El sistema se activa al ingresar una contraseña por comunicación serial.
+						 
  * 
  */
 #include <TimerOne.h>
